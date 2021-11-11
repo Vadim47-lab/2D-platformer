@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: ef8c59879f871bf49853926ff10c0d61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3541775885438576179
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_0
+  - first:
+      213: -5564787503752132127
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_1
+  - first:
+      213: -818843363430914007
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_2
+  - first:
+      213: 2640715060749640837
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_3
+  - first:
+      213: -3213132512973733351
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_4
+  - first:
+      213: 4870446611976750406
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_5
+  - first:
+      213: 6704452031503849345
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_6
+  - first:
+      213: 6375947077775306883
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_7
+  - first:
+      213: -8519866982117166120
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_8
+  - first:
+      213: 7060551615920813430
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_9
+  - first:
+      213: 5435151612171179673
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_10
+  - first:
+      213: -4309795255925776294
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_11
+  - first:
+      213: -4783556773421377562
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_12
+  - first:
+      213: 864853706675368318
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_13
+  - first:
+      213: 5489882733157449650
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_14
+  - first:
+      213: 3509722963736882399
+    second: 165-1658510_design-scott-pilgrim-vs-the-world_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 154
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -50.5}
+        - {x: 20.5, y: -50.5}
+        - {x: 1.5, y: -50.5}
+        - {x: -36.5, y: -50.5}
+        - {x: -36.5, y: -50.5}
+        - {x: -36.5, y: -50.5}
+        - {x: -36.5, y: -33.5}
+        - {x: -36.5, y: -21.5}
+        - {x: -36.5, y: -10.5}
+        - {x: -36.5, y: -4.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -36.5, y: 50.5}
+        - {x: -3.5, y: 50.5}
+        - {x: 16.5, y: 50.5}
+        - {x: 30.5, y: 50.5}
+        - {x: 36.5, y: 50.5}
+        - {x: 36.5, y: 50.5}
+        - {x: 36.5, y: 50.5}
+        - {x: 36.5, y: 50.5}
+        - {x: 36.5, y: 50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9936ae89519dec0800000000000000
+      internalID: -3541775885438576179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 141
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94254bf37e5c2b0800000000000000
+      internalID: -5564787503752132127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 160
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928a304ac42e2a4f0800000000000000
+      internalID: -818843363430914007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 158
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a10d4b54b5a420800000000000000
+      internalID: 2640715060749640837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 150
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91241fbd009a863d0800000000000000
+      internalID: -3213132512973733351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 142
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645016c836d479340800000000000000
+      internalID: 4870446611976750406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 156
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187de67d99ffa0d50800000000000000
+      internalID: 6704452031503849345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_7
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 154
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380bc75061aeb7850800000000000000
+      internalID: 6375947077775306883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 25
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753549494e1cf160800000000000000
+      internalID: 7060551615920813430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b355be1a53c980800000000000000
+      internalID: -8519866982117166120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 13
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996dad738998d6b40800000000000000
+      internalID: 5435151612171179673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 25
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5061eb8c088034c0800000000000000
+      internalID: -4309795255925776294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 27
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71e4d75746d9db0800000000000000
+      internalID: -4783556773421377562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 28
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b0113dd3900c00800000000000000
+      internalID: 864853706675368318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_14
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 11
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7668524bff2c40800000000000000
+      internalID: 5489882733157449650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 165-1658510_design-scott-pilgrim-vs-the-world_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 23
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc6191b07a05b030800000000000000
+      internalID: 3509722963736882399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
